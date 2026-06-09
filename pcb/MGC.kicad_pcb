@@ -123,7 +123,7 @@
 			(outputdirectory "")
 		)
 	)
-	(property "acronym" "MGA")
+	(property "acronym" "MGC")
 	(property "company" "HTL-Rankweil")
 	(property "creator" "GAR")
 	(property "date" "1337-13-37")
