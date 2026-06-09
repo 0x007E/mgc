@@ -14140,7 +14140,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Right"
 			(at 170.18 171.45 0)
 			(effects
 				(font
@@ -17217,7 +17217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Left"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Right"
 			(at 240.03 44.45 0)
 			(effects
 				(font
@@ -20424,7 +20424,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Images:QR_0x007e_small"
+		(property "Footprint" "Images:QR_0x007e_very_small"
 			(at 163.83 156.21 0)
 			(effects
 				(font
