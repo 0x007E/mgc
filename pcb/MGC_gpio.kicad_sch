@@ -6766,7 +6766,7 @@
 		)
 	)
 	(global_label "TONE"
-		(shape output)
+		(shape input)
 		(at 170.18 34.29 0)
 		(fields_autoplaced yes)
 		(effects
