@@ -4397,7 +4397,7 @@
 		)
 		(model "${KIPRJMOD}/lib/OLED_128x64_0.96.step"
 			(offset
-				(xyz 1.5 -3.85 5.5)
+				(xyz 1.5 -3.85 2.54)
 			)
 			(scale
 				(xyz 1 1 1)
