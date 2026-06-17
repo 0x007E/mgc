@@ -2,7 +2,7 @@
 
 # `MGC` - MeGARCard
 
-The `MGC` is a built as base development board with a set of push-buttons, leds, potentiometers and many more components on-board. It builds the base platform for a bunchset of adaptable microcontrolles (e.g. `ATmega16A`, `ATmega4808`, `ESP32`). It simplifies the development process by extending supported microcontrollers to a range of actuators and sensors. The board itself regulates the voltage to `5V` or `3V3` automatically with a power mux ([TPS2116](#additional-information)). If `3V3` and `5V` are suppored, the voltage can be changed on the dip switch of the adaptable microcontroller board. The base board supports a usb or uart-interface [FT230XS](#additional-information) to the adaptable microcontroller. The usb mode can be switched over a usb-multiplexer [TS3USB30](#additional-information) within the dip switch on the base board. The leds on the base bord are controlled over a transistor array [TBD62783](#additional-information) that keeps the input current on a very low state. 
+The `MGC` is built as base development board with a set of push-buttons, leds, potentiometers and many more components on-board. It builds the base platform for a bunchset of adaptable microcontrolles (e.g. `ATmega16A`, `ATmega4808`, `ESP32`). It simplifies the development process by extending supported microcontrollers to a range of actuators and sensors. The board itself regulates the voltage to `5V` or `3V3` automatically with a power mux ([TPS2116](#additional-information)). If `3V3` and `5V` are suppored, the voltage can be changed on the dip switch of the adaptable microcontroller board. The base board supports a usb or uart-interface [FT230XS](#additional-information) to the adaptable microcontroller. The usb mode can be switched over a usb-multiplexer [TS3USB30](#additional-information) within the dip switch on the base board. The leds on the base bord are controlled over a transistor array [TBD62783](#additional-information) that keeps the input current on a very low state. 
 
 > Note that the board should be disconnected from power sources when changing the state of the dip switches on the base or microcontroller adapter board.
 
@@ -15,7 +15,10 @@ The `MGC` is a built as base development board with a set of push-buttons, leds,
 
 | ATmega16A | ATmega4809 | ESP32 |
 |:---------:|:----------:|:-----:|
-| ![Bottom Layer](https://github.com/0x007E/mgc_m16a/releases/latest/download/bottom.kicad.png) | ![Bottom Layer](https://github.com/0x007E/mgc_m4809/releases/latest/download/bottom.kicad.png) | ![Bottom Layer](https://github.com/0x007E/mgc_esp32/releases/latest/download/bottom.kicad.png) |
+| ![Bottom Layer](https://github.com/0x007E/mgc_m16a/releases/latest/download/bottom.thumbnail.kicad.png) | ![Bottom Layer](https://github.com/0x007E/mgc_m4809/releases/latest/download/bottom.thumbnail.kicad.png) | ![Bottom Layer](https://github.com/0x007E/mgc_esp32/releases/latest/download/bottom.thumbnail.kicad.png) |
+| Schematic | Schematic | Schematic |
+| [pdf](https://github.com/0x007E/mgc_m16a/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/projects/mgc-atmega16a-module) | [pdf](https://github.com/0x007E/mgc_atmega4809/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/projects/mgc-atmega4809-module) | [pdf](https://github.com/0x007E/mgc_esp32/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/projects/mgc-atmega4809-module) |
+| [GitHub](https://github.com/0x007e/mgc_m16a) | [GitHub](https://github.com/0x007e/mgc_m4809) | [GitHub](https://github.com/0x007e/mgc_esp32) |
 
 # Downloads
 
