@@ -17,7 +17,7 @@ The `MGC` is built as base development board with a set of push-buttons, leds, p
 |:---------:|:----------:|:-----:|
 | ![Bottom Layer](https://github.com/0x007E/mgc_m16a/releases/latest/download/bottom.thumbnail.kicad.png) | ![Bottom Layer](https://github.com/0x007E/mgc_m4809/releases/latest/download/bottom.thumbnail.kicad.png) | ![Bottom Layer](https://github.com/0x007E/mgc_esp32/releases/latest/download/bottom.thumbnail.kicad.png) |
 | Schematic | Schematic | Schematic |
-| [pdf](https://github.com/0x007E/mgc_m16a/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/projects/mgc-atmega16a-module) | [pdf](https://github.com/0x007E/mgc_atmega4809/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/projects/mgc-atmega4809-module) | [pdf](https://github.com/0x007E/mgc_esp32/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/projects/mgc-atmega4809-module) |
+| [pdf](https://github.com/0x007E/mgc_m16a/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/30414/main/files) | [pdf](https://github.com/0x007E/mgc_m4809/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/30419/main/files) | [pdf](https://github.com/0x007E/mgc_esp32/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/30425/main/files) |
 | [GitHub](https://github.com/0x007e/mgc_m16a) | [GitHub](https://github.com/0x007e/mgc_m4809) | [GitHub](https://github.com/0x007e/mgc_esp32) |
 
 # Downloads
